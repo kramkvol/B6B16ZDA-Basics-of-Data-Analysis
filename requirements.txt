@@ -1,0 +1,7 @@
+calendar
+glob
+matplotlib
+numpy
+pandas
+seaborn
+sklearn
