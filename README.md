@@ -1,6 +1,8 @@
 # CVUT_ZDA
 https://nbviewer.org/github/kramkvol/CVUT_ZDA/blob/main/Sem_work_zda.ipynb
 
+https://www.kaggle.com/datasets/bahramjannesarr/goodreads-book-datasets-10m/data
+
 STARR report
 1) Situation - Chtěli jsme pochopit, jaké faktory ovlivňují popularitu knih — zejména počet hodnocení a hodnocení samotné (ratings).
 3) Task - Analytický úkol spočíval ve zpracování rozsáhlého datasetu knih a čtenářských hodnocení a hledání souvislostí mezi vlastnostmi knih a jejich úspěšností.
