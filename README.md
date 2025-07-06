@@ -12,3 +12,4 @@
 
 [Dataset](https://www.kaggle.com/datasets/bahramjannesarr/goodreads-book-datasets-10m/data)
 
+[GitHub](https://github.com/kramkvol/CVUT_ZDA)
