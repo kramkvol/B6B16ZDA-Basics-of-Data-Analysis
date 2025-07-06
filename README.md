@@ -7,6 +7,8 @@
 6) Review - Výsledky odpovídají očekávání a dávají smysl. Analýzu by bylo možné vylepšit zapojením NLP technik na popisy knih nebo rozšířením o časový aspekt (např. rok vydání).
 ## Links
 [Prezetation](https://github.com/kramkvol/CVUT_ZDA/blob/main/presentation.pdf)
+
 [Results .ipynb](https://nbviewer.org/github/kramkvol/CVUT_ZDA/blob/main/Sem_work_zda.ipynb)
+
 [Dataset](https://www.kaggle.com/datasets/bahramjannesarr/goodreads-book-datasets-10m/data)
 
