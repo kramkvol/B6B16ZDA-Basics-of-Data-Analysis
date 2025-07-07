@@ -6,7 +6,7 @@
 5) Result - Zjistili jsme, že knihy určité délky (např. 300–400 stran) mají vyšší hodnocení. Také se ukázalo, že žánr fiction a známí autoři jsou častěji hodnoceni lépe.
 6) Review - Výsledky odpovídají očekávání a dávají smysl. Analýzu by bylo možné vylepšit zapojením NLP technik na popisy knih nebo rozšířením o časový aspekt (např. rok vydání).
 ## Links
-[Prezetation](https://github.com/kramkvol/CVUT_ZDA/blob/main/presentation.pdf)
+[Prezentation](https://github.com/kramkvol/CVUT_ZDA/blob/main/presentation.pdf)
 
 [Results .ipynb](https://nbviewer.org/github/kramkvol/CVUT_ZDA/blob/main/Sem_work_zda.ipynb)
 
