@@ -1,4 +1,5 @@
-# Summer Semester 2025 - Final Project for B6B16ZDA: Basics of Data Analysis
+# B6B16ZDA: Basics of Data Analysis
+Summer Semester 2025 - Final Project for B6B16ZDA: Basics of Data Analysis
 ## STARR report
 1) Situation - Chtěli jsme pochopit, jaké faktory ovlivňují popularitu knih — zejména počet hodnocení a hodnocení samotné (ratings).
 3) Task - Analytický úkol spočíval ve zpracování rozsáhlého datasetu knih a čtenářských hodnocení a hledání souvislostí mezi vlastnostmi knih a jejich úspěšností.
